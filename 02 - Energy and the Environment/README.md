@@ -1,1 +1,325 @@
+# ⚡ Chapter 2: Energy and the Environment
 
+> [!NOTE]
+> **Cambridge O Level Environmental Management (5014)**  
+> Student-made revision notes by **Muhammad Ibraheem**, designed to make learning simpler, faster, and freely accessible.
+
+| Reading Time | Difficulty | Last Updated | Status |
+| :--- | :---: | :---: | :---: |
+| ~25 min | Beginner | July 2026 | In Progress |
+
+---
+
+## ⛽ Introduction to Energy & Fossil Fuels
+---
+
+Energy is essential for industries, transport, electricity generation, and our daily lives. As the world's population continues to grow, the demand for energy is also increasing.
+
+### Fossil Fuels
+
+**Fossil fuels** are carbon compounds that produce **heat and light** when burned (an **exothermic reaction**).
+
+They are formed over **millions of years** from the decay of dead plants and animals beneath the Earth's surface.
+
+The formation process is:
+
+```text
+Dead plants and animals
+          ↓
+      Peat layer
+          ↓
+Compression by sediments
+          ↓
+Further compression over millions of years
+          ↓
+ Fossil fuels (Coal, Oil & Gas)
+```
+
+> [!NOTE]
+> Fossil fuels are **non-renewable resources** because they take millions of years to form but are used much faster than they are replaced.
+
+---
+
+### Increasing Demand for Energy
+
+The global demand for energy is increasing due to:
+
+- Increasing population.
+- Rapid industrialisation.
+- Urbanisation.
+- Improved living standards.
+
+> [!TIP]
+> Remember these four reasons as they are commonly tested in examinations.
+
+---
+
+### Quick Revision
+
+- Fossil fuels are **carbon compounds**.
+- Burning fossil fuels is an **exothermic reaction**.
+- Fossil fuels are formed from **dead plants and animals** over millions of years.
+- Energy demand is increasing because of **population growth, industrialisation, urbanisation, and improved living standards**.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Saying fossil fuels are renewable.
+> - Forgetting that fossil fuels take **millions of years** to form.
+> - Missing one or more reasons for the increasing demand for energy.
+---
+
+## ♻️ Renewable and Non-Renewable Energy Resources
+
+Energy resources can be divided into **non-renewable** and **renewable** sources.
+
+- **Non-renewable resources** are finite and take millions of years to form. Once used, they cannot be replaced within a human lifetime.
+- **Renewable resources** are naturally replenished and can be used repeatedly if managed sustainably.
+
+### Types of Energy Resources
+
+| Non-Renewable Resources | Renewable Resources |
+| :--- | :--- |
+| Coal | Geothermal Power |
+| Oil | Hydroelectric Power (HEP) |
+| Natural Gas | Tidal Power |
+| Nuclear Power (Uranium) | Wave Power |
+|  | Wind Power |
+|  | Solar Power |
+|  | Biofuels (Biogas, Bioethanol, Wood) |
+
+> [!NOTE]
+> **Nuclear power (uranium)** is classified as a **non-renewable** energy source because uranium is a finite resource. It produces **very little air pollution** during electricity generation, although radioactive waste remains a major concern.
+
+---
+
+### Renewable vs Non-Renewable
+
+| Feature | Renewable | Non-Renewable |
+| :--- | :---: | :---: |
+| Can be replenished naturally | ✅ | ❌ |
+| Will eventually run out | ❌ | ✅ |
+| Formation time | Naturally replenished | Millions of years |
+| Examples | Solar, Wind, HEP | Coal, Oil, Gas |
+
+---
+
+### Quick Revision
+
+- Energy resources are divided into **renewable** and **non-renewable**.
+- **Coal, oil, natural gas, and uranium** are non-renewable resources.
+- **Solar, wind, HEP, tidal, wave, geothermal, and biofuels** are renewable resources.
+- Renewable resources can be replenished naturally, whereas non-renewable resources are finite.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Forgetting that **nuclear power is non-renewable**.
+> - Confusing **HEP** with tidal or wave power.
+> - Writing biofuels as non-renewable resources.
+---
+
+## ⚙️ Electricity Generation
+
+Different energy sources generate electricity in different ways.
+
+### Electricity Generation from Non-Renewable Sources
+
+Non-renewable energy sources are burned to produce **heat**, which converts water into **steam**. The steam rotates a **turbine**, and the turbine drives a **generator** to produce electricity.
+
+```text
+Fuel
+   ↓
+Heat
+   ↓
+Water boils
+   ↓
+Steam
+   ↓
+Turbine
+   ↓
+Generator
+   ↓
+Electricity
+```
+
+> [!TIP]
+> The efficiency of a turbine can be increased by **adding more blades** or **producing more steam**.
+
+---
+
+### Electricity Generation from Renewable Sources
+
+Renewable energy sources generate electricity in different ways.
+
+| Energy Source | How Electricity is Generated |
+| :--- | :--- |
+| **Geothermal Power** | Uses the Earth's heat to convert water into steam, which rotates a turbine. |
+| **Wind Power** | Wind turns the blades of a wind turbine. A gearbox and braking system help generate electricity. |
+| **Solar Power** | Solar panels convert **light energy** directly into **electrical energy**. |
+| **Hydroelectric Power (HEP)** | Flowing water turns turbines to generate electricity. |
+| **Tidal Power** | Uses the natural rise and fall of sea levels to turn underwater turbines. |
+| **Wave Power** | Uses the movement of waves to operate hinged platforms, producing electricity. |
+| **Biofuels** | Burned to produce heat, which converts water into steam to drive a turbine. |
+
+> [!NOTE]
+> Among the renewable sources listed above, **geothermal power** and **biofuels** generate electricity by producing **steam**. Most of the other renewable sources generate electricity directly by driving turbines or using solar cells.
+
+---
+
+### Quick Revision
+
+- Non-renewable sources generate electricity using **heat → steam → turbine → generator**.
+- **Geothermal power** uses the Earth's heat.
+- **Wind power** uses wind turbines.
+- **Solar power** converts light energy directly into electrical energy.
+- **HEP, tidal, and wave power** use moving water to generate electricity.
+- **Biofuels** generate electricity by producing steam.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Forgetting that **solar panels do not use turbines**.
+> - Confusing **tidal power** with **wave power**.
+> - Thinking all renewable energy sources generate electricity using steam.
+---
+
+## 🌍 Factors Affecting the Use of Different Energy Sources
+
+The choice of an energy source depends on **economic, social, and environmental factors**.
+
+---
+
+### Economic Factors
+
+Economic factors influence whether an energy source is affordable and practical to use.
+
+These include:
+
+- The supply of energy resources can be expensive.
+- A limited supply of raw fuels can hinder energy production.
+- Countries with their own natural resources can reduce their dependence on imported fuels.
+  - *Example:* The United States has large coal reserves, while many Middle Eastern countries have abundant oil reserves.
+- Countries facing economic barriers may not be able to invest in certain energy sources.
+- Developing new energy technologies often requires a high initial investment.
+
+---
+
+### Social Factors
+
+The development of energy resources can have both positive and negative effects on society.
+
+**Positive impacts:**
+
+- Mining of coal and gas can encourage new industries to grow.
+- More employment opportunities are created.
+- Local infrastructure may improve, including roads, schools, buildings, and electricity supply.
+
+**Negative impacts:**
+
+- Entire communities may need to be relocated, for example during the construction of a dam.
+- New technologies may reduce employment in older industries.
+- Political relationships and international trading patterns may change due to the development of new energy sources.
+- Mining, fuel combustion, and nuclear radiation can have harmful effects on human health.
+
+---
+
+### Environmental Factors
+
+Energy production can have significant impacts on the environment.
+
+These include:
+
+- Pollution caused by fuel spillages.
+- Oil spills in oceans and seas.
+- Burning fossil fuels releases harmful gases into the atmosphere.
+- Mining and extraction can damage habitats and ecosystems.
+- Food sources and breeding activities of animals may be disturbed.
+- Changes to the landscape can create visual pollution.
+- Large solar farms may cover extensive areas of land.
+- Wind turbines can create noise and may affect the natural beauty of an area.
+
+> [!TIP]
+> In examination questions, try to discuss **all three factors (economic, social, and environmental)** to gain maximum marks where appropriate.
+
+---
+
+### Quick Revision
+
+- Energy choices are influenced by **economic, social, and environmental factors**.
+- Local energy resources reduce dependence on imported fuels.
+- Energy projects can create jobs but may also displace communities.
+- Energy production can lead to pollution, habitat destruction, and visual impacts.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Mentioning only environmental impacts and ignoring economic or social factors.
+> - Forgetting that energy projects can have both **advantages and disadvantages**.
+> - Confusing economic factors with environmental factors.
+---
+
+## 🌱 Biofuels
+
+**Biofuels** are **renewable energy sources** derived from biological materials.
+
+The three main biofuels are:
+
+- **Bioethanol**
+- **Biogas**
+- **Wood**
+
+### Types of Biofuels
+
+| Biofuel | Description |
+| :--- | :--- |
+| **Bioethanol** | Produced by the **fermentation of sugar** found in crops such as wheat, corn, and sugarcane. It can be used as a substitute for petroleum. |
+| **Biogas** | Produced by the **decomposition of organic matter**. Methane is the main gas present. Common sources include animal manure, food waste, and household waste. |
+| **Wood** | One of the oldest renewable energy sources, burned directly to produce heat. |
+
+---
+
+### Advantages of Bioethanol
+
+- Easy to source.
+- Reduces greenhouse gas emissions and produces less carbon dioxide than petroleum (although some pollution is generated during industrial production).
+- Improves economic security by reducing dependence on imported fuels and lowering the risk of fuel shortages.
+
+---
+
+### Disadvantages of Bioethanol
+
+- Can contribute to **food shortages**, as crops are used to produce fuel instead of food.
+- Large quantities of water are required to grow biofuel crops, increasing **water demand**.
+- Factories producing bioethanol still generate **industrial pollution**, although generally less than fossil fuel industries.
+
+> [!NOTE]
+> Although bioethanol is considered a cleaner fuel, its production still has environmental and social impacts.
+
+---
+
+### Quick Revision
+
+- Biofuels are **renewable energy sources**.
+- The main biofuels are **bioethanol, biogas, and wood**.
+- Bioethanol is produced by **fermentation**.
+- Biogas is produced by the **decomposition of organic matter**.
+- Bioethanol reduces dependence on imported fuels but may contribute to food and water shortages.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Confusing **biogas** with **bioethanol**.
+> - Forgetting that **methane** is the main gas in biogas.
+> - Mentioning only the advantages or only the disadvantages of bioethanol.
+      SECTION 6 SE KRNA YAHA SE CHAT LURAK GYA SALA 
