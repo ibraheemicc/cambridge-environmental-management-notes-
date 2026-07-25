@@ -785,8 +785,7 @@ If an oil spill occurs, several methods can be used to reduce its environmental 
 | **Floating Boom** | A floating barrier used to contain an oil spill and prevent it from spreading. |
 | **Skimmer** | A device used to remove floating oil from the surface of water during oil spill clean-up. |
 | **Energy Conservation** | The reduction of energy consumption through efficient use and management of energy resources. |
-> 🎉 Congratulations! You've completed **Chapter 2: Energy and the Environment**.
 >
 > ---
-> 
+> 🎉 Congratulations! You've completed **Chapter 2: Energy and the Environment**.
 >  If you found these notes helpful, consider **starring ⭐ this repository** to support the project and help other students discover these free revision resources.
