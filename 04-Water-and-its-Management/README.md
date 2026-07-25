@@ -8,7 +8,7 @@
 
 | Reading Time | Difficulty | Last Updated | Status |
 | :--- | :---: | :---: | :---: |
-| ~15 min | Advanced | July 2026 | Complete |
+| ~20 min | Advanced | July 2026 | Complete |
 
 ---
 
