@@ -1802,4 +1802,4 @@ Before your exam, make sure you can confidently explain:
 
 > [!TIP]
 > If you can explain every process above **without looking at your notes**, you're well prepared for almost any Cambridge question from this chapter.
-Contunue YAHAN SE SECTION 12 AND 13 CHAT WARGYA ask chat ke bhot zyaddda bara kardiya hai ye wala section 👆🏻
+Contunue YAHAN SE SECTION 12 AND 13 CHAT WARGYA ask chat ke bhot zyaddda bara kardiya hai ye wala section 👆🏻 also ask did u remove keyterms wala part in ch 2 3 4 
