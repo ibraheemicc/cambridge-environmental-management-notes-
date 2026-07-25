@@ -9,6 +9,19 @@
 | ~25 min | Beginner | July 2026 | In Progress |
 
 ---
+## Contents
+
+1. Introduction to Energy & Fossil Fuels
+2. Renewable and Non-Renewable Energy Resources
+3. Electricity Generation
+4. Factors Affecting the Use of Different Energy Sources
+5. Biofuels
+6. Demand for Energy
+7. Conservation and Management of Energy Sources
+8. Development of New Energy Resources
+9. Impact of Oil Pollution
+10. Preventing and Minimising Oil Spills
+11. Chapter Summary
 
 ## ⛽ Introduction to Energy & Fossil Fuels
 ---
