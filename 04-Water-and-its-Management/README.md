@@ -1802,4 +1802,32 @@ Before your exam, make sure you can confidently explain:
 
 > [!TIP]
 > If you can explain every process above **without looking at your notes**, you're well prepared for almost any Cambridge question from this chapter.
-Contunue YAHAN SE SECTION 12 AND 13 CHAT WARGYA ask chat ke bhot zyaddda bara kardiya hai ye wala section 👆🏻 also ask did u remove keyterms wala part in ch 2 3 4 
+
+---
+
+# 🔑 Key Terms
+
+| Term | Definition |
+| :--- | :--- |
+| **Aquifer** | A layer of porous rock that stores groundwater. |
+| **Potable Water** | Water that is safe for human consumption. |
+| **Desalination** | The process of removing dissolved salts from seawater to produce freshwater. |
+| **Biological Oxygen Demand (BOD)** | The amount of oxygen required by microorganisms to decompose organic matter in water. |
+| **Effluent** | Treated wastewater discharged into rivers or other water bodies. |
+| **Sludge** | Solid waste removed during sewage treatment. |
+| **Eutrophication** | The enrichment of water with nutrients, causing algal blooms and oxygen depletion. |
+| **Acid Rain** | Rainfall made acidic by sulfur dioxide (SO₂) and nitrogen oxides (NOₓ). |
+| **Vector** | An organism that carries and transmits disease-causing pathogens between hosts. |
+| **Leaching** | The washing of dissolved nutrients or chemicals through soil by water. |
+| **Groundwater** | Water stored beneath Earth's surface in soil and rocks. |
+| **Reservoir** | A natural or artificial storage area used to hold water, often behind a dam. |
+
+---
+
+# 🎉 Congratulations!
+
+> 🎉 **Congratulations! You've completed Chapter 4: Water and its Management.**
+>
+> You now understand the **distribution, uses, management, and conservation of water**, along with important topics such as **desalination, water pollution, sewage treatment, eutrophication, and pollution control**.
+>
+> If you found these notes helpful, consider **starring ⭐ this repository** to support the project and help other students discover these free revision resources.
