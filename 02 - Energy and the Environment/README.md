@@ -766,3 +766,8 @@ If an oil spill occurs, several methods can be used to reduce its environmental 
 > - Confusing **MARPOL** with an oil spill clean-up method.
 > - Forgetting that **double hulls help prevent spills**, not clean them up.
 > - Writing that detergent sprays completely remove oil—they only help break it into smaller droplets.
+---
+
+> 🎉 Congratulations! You've completed **Chapter 1: Rocks and Minerals and Their Exploitation**.
+>
+> If you found these notes helpful, consider **starring ⭐ this repository** to support the project and help other students discover these free revision resources.
