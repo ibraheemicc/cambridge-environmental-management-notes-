@@ -6,7 +6,7 @@
 
 | Reading Time | Difficulty | Last Updated | Status |
 | :--- | :---: | :---: | :---: |
-| ~25 min | Beginner | July 2026 | In Progress |
+| ~25 min | Beginner | July 2026 | Completed |
 
 ---
 ## Contents
