@@ -195,7 +195,7 @@ As the world's population continues to grow, agricultural demand for water is al
 
 ---
 
-# 💦 Sources of Fresh Water
+# 🌊 Sources of Fresh Water
 
 Fresh water is obtained from both **surface water** and **groundwater** sources.
 
