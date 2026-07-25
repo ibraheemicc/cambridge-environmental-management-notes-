@@ -683,7 +683,7 @@ Sewage is transported through underground pipes called **sewers** to a **sewage 
 
 ---
 
-# 🧪 Sewage Treatment
+# Sewage Treatment
 
 The main purpose of sewage treatment is to:
 
@@ -791,7 +791,7 @@ This produces cleaner water and further reduces harmful microorganisms.
 
 ---
 
-# 🚰 Producing Potable Water
+# Producing Potable Water
 
 **Potable water** is water that is safe for human consumption.
 
@@ -844,7 +844,7 @@ To make untreated water potable, it undergoes several treatment stages:
 > - Thinking methane is a waste product—it can be collected and used as a renewable energy source.
 ---
 
-# 🏭 Industrial Water Pollution
+# 2.  Industrial Water Pollution
 
 Industries use and produce many chemicals that can pollute the environment if they are not properly treated before disposal.
 
@@ -879,7 +879,7 @@ If untreated waste enters water bodies, these substances can:
 
 ---
 
-# 🌧️ Acid Rain
+# Acid Rain
 
 **Acid rain** is rainfall that has a lower pH than normal because it contains acidic pollutants.
 
@@ -965,7 +965,7 @@ Over time, it causes:
 
 ---
 
-# 🌱 Reducing Acid Rain
+# Reducing Acid Rain
 
 Several methods can reduce acid rain.
 
@@ -1007,7 +1007,7 @@ These include:
 > - Forgetting that acid rain can also damage **buildings and monuments**, not just plants and animals.
 ---
 
-# 🌾 Agricultural Water Pollution
+# 3. Agricultural Water Pollution
 
 Agriculture is one of the largest sources of water pollution.
 
@@ -1060,7 +1060,7 @@ Improper application can:
 
 ---
 
-# 🌿 Eutrophication
+# Eutrophication
 
 **Eutrophication** is the enrichment of a water body with excessive nutrients, mainly **nitrates** and **phosphates**.
 
@@ -1338,7 +1338,7 @@ Water has three major uses:
 
 ---
 
-## 💦 Sources of Fresh Water
+## 🌊 Sources of Fresh Water
 
 - Rivers
 - Lakes
@@ -1802,4 +1802,4 @@ Before your exam, make sure you can confidently explain:
 
 > [!TIP]
 > If you can explain every process above **without looking at your notes**, you're well prepared for almost any Cambridge question from this chapter.
-Contunue YAHAN SE SECTION 12 AND 13 CHAT WARGYA 
+Contunue YAHAN SE SECTION 12 AND 13 CHAT WARGYA ask chat ke bhot zyaddda bara kardiya hai ye wala section 👆🏻
