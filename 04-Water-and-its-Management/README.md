@@ -1824,8 +1824,6 @@ Before your exam, make sure you can confidently explain:
 
 ---
 
-# 🎉 Congratulations!
-
 > 🎉 **Congratulations! You've completed Chapter 4: Water and its Management.**
 >
 > You now understand the **distribution, uses, management, and conservation of water**, along with important topics such as **desalination, water pollution, sewage treatment, eutrophication, and pollution control**.
