@@ -768,6 +768,6 @@ If an oil spill occurs, several methods can be used to reduce its environmental 
 > - Writing that detergent sprays completely remove oil—they only help break it into smaller droplets.
 ---
 
-> 🎉 Congratulations! You've completed **Chapter 1: Rocks and Minerals and Their Exploitation**.
+> 🎉 Congratulations! You've completed **Chapter 2: Energy and the Environment**.
 >
 > If you found these notes helpful, consider **starring ⭐ this repository** to support the project and help other students discover these free revision resources.
