@@ -546,3 +546,9 @@ Marine productivity depends on **phytoplankton**, which require sunlight and nut
 Modern fishing has increased food production but has also caused serious problems such as **overfishing** and **bycatch**. Fish farming through **aquaculture** and **mariculture** helps meet growing demand but may introduce pollution and disease.
 
 Sustainable fisheries are managed using **appropriate mesh sizes, quotas, closed seasons, Marine Protected Areas (MPAs), and international agreements such as UNCLOS**. Although enforcement remains challenging because of illegal fishing and the vast size of the oceans, effective management is essential to conserve marine biodiversity, protect livelihoods, and ensure fish stocks remain available for future generations.
+
+---
+
+> 🎉 **Congratulations! You've completed Chapter 5: Oceans and Fisheries.**
+>
+> If you found these notes helpful, consider **starring ⭐ this repository** to support the project and help other students discover these free revision resources.
