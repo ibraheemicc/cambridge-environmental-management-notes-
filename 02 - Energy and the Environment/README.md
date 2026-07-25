@@ -767,7 +767,24 @@ If an oil spill occurs, several methods can be used to reduce its environmental 
 > - Forgetting that **double hulls help prevent spills**, not clean them up.
 > - Writing that detergent sprays completely remove oil—they only help break it into smaller droplets.
 ---
+# 🔑 Key Terms
 
+| Term | Definition |
+| :--- | :--- |
+| **Fossil Fuel** | A non-renewable energy source formed over millions of years from the remains of dead plants and animals. |
+| **Renewable Energy** | Energy obtained from natural sources that are continually replenished, such as sunlight, wind and moving water. |
+| **Non-renewable Energy** | Energy obtained from finite resources that cannot be replaced within a human lifetime. |
+| **Biofuel** | A renewable fuel produced from recently living organisms or organic waste. |
+| **Bioethanol** | A liquid biofuel produced by fermenting sugars from crops such as sugarcane, maize and wheat. |
+| **Biogas** | A fuel, mainly methane, produced by the anaerobic decomposition of organic matter. |
+| **Hydroelectric Power (HEP)** | Electricity generated using the energy of flowing or falling water. |
+| **Geothermal Energy** | Energy obtained from heat within the Earth's interior. |
+| **Fracking (Hydraulic Fracturing)** | A method of extracting oil or natural gas by injecting water, sand and chemicals into underground rock at high pressure. |
+| **Oil Spill** | The release of crude oil or petroleum into the environment, especially marine ecosystems. |
+| **MARPOL** | The International Convention for the Prevention of Pollution from Ships, designed to reduce marine pollution from shipping. |
+| **Floating Boom** | A floating barrier used to contain an oil spill and prevent it from spreading. |
+| **Skimmer** | A device used to remove floating oil from the surface of water during oil spill clean-up. |
+| **Energy Conservation** | The reduction of energy consumption through efficient use and management of energy resources. |
 > 🎉 Congratulations! You've completed **Chapter 2: Energy and the Environment**.
->
-> If you found these notes helpful, consider **starring ⭐ this repository** to support the project and help other students discover these free revision resources.
+> ---
+>  If you found these notes helpful, consider **starring ⭐ this repository** to support the project and help other students discover these free revision resources.
