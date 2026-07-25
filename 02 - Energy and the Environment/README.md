@@ -322,4 +322,434 @@ The three main biofuels are:
 > - Confusing **biogas** with **bioethanol**.
 > - Forgetting that **methane** is the main gas in biogas.
 > - Mentioning only the advantages or only the disadvantages of bioethanol.
-      SECTION 6 SE KRNA YAHA SE CHAT LURAK GYA SALA 
+---
+
+## 📈 Demand for Energy
+
+The **global demand for energy** continues to increase, especially for **non-renewable energy sources**. As demand rises, the world price of fossil fuels is also expected to increase.
+
+The demand for energy is influenced by several factors.
+
+---
+
+### 1. Industrial Demand
+
+Industries require large amounts of energy for manufacturing and production.
+
+Examples include:
+
+- Iron and steel production requires large amounts of heat energy.
+- As products become more affordable, people purchase them in greater numbers, increasing the demand for manufacturing.
+- Increased manufacturing leads to a greater demand for energy.
+
+---
+
+### 2. Domestic Demand
+
+Domestic demand refers to the energy used in homes and everyday life.
+
+Examples include:
+
+- Televisions
+- Cars
+- Mobile phones
+- Computers
+
+As these products become more affordable and widely available, their production increases, which requires more energy.
+
+A reliable electricity supply is therefore essential to meet domestic demand.
+
+---
+
+### 3. Transport Demand
+
+Transport requires large amounts of energy, mainly from fossil fuels.
+
+Energy is needed for:
+
+- Transporting goods by ships, planes, and trucks.
+- Tourism.
+- Daily travel.
+- Imports and exports.
+
+Although bulk transportation reduces the transport cost per product, it still requires significant amounts of fuel.
+
+---
+
+### 4. Economic Factors
+
+The demand for energy depends on a country's economic conditions.
+
+Generally:
+
+- Greater affordability leads to greater energy consumption.
+- Increased use of fossil fuels results in higher energy demand.
+
+---
+
+### 5. Climate
+
+Climate also affects energy demand.
+
+- **Colder countries** use more fossil fuels for heating and electricity.
+- **Warmer countries** use more electricity for cooling systems such as air conditioning.
+
+> [!TIP]
+> Remember the **five main factors** affecting energy demand:
+>
+> **Industrial • Domestic • Transport • Economic • Climate**
+
+---
+
+### Quick Revision
+
+- Energy demand is increasing worldwide.
+- Industrial production requires large amounts of energy.
+- Domestic demand increases as living standards improve.
+- Transport relies heavily on fossil fuels.
+- Economic conditions and climate both influence energy demand.
+
+---
+
+### Exam Tip
+
+> [!IMPORTANT]
+> If asked **"Explain why energy demand is increasing,"** avoid writing only **population growth**. Cambridge usually expects **multiple factors**, such as industrialisation, transport, improved living standards, economic growth, and climate where relevant.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Confusing **domestic demand** with **industrial demand**.
+> - Forgetting that transport is a major consumer of fossil fuels.
+> - Writing only one factor when explaining the increase in energy demand.
+---
+
+## ♻️ Conservation and Management of Energy Sources
+
+Due to the **increasing population**, **greater industrial demand**, and **improved living standards**, energy conservation has become increasingly important. Conserving energy helps ensure that resources remain available for **future generations**.
+
+Effective **management** means using energy efficiently and reducing unnecessary waste.
+
+---
+
+### Strategies for Effective Energy Use
+
+#### 1. Reduce Energy Consumption
+
+Reducing energy use in homes and industries is one of the most effective ways to conserve energy.
+
+Examples include:
+
+- Using insulation in buildings to keep them warm during winter.
+- Using good construction materials.
+- Installing double-glazed windows.
+- Turning off electrical appliances when they are not in use.
+- Using energy-efficient appliances and technologies.
+- Recycling materials, for example using household waste to produce energy.
+
+Governments may also introduce:
+
+- **Power cuts** during periods of high demand.
+- **Fuel rationing**, which is a controlled amount of fuel that people are allowed to use.
+
+> [!NOTE]
+> Individual actions play an important role in reducing overall energy consumption.
+
+---
+
+#### 2. Education and Government Policies
+
+Governments and organisations can encourage efficient energy use by:
+
+- Educating people about energy conservation.
+- Promoting new and energy-efficient technologies.
+- Introducing strict rules and regulations.
+- Applying energy rating labels to products so consumers can make informed choices.
+- Providing grants to encourage the purchase of energy-efficient technologies.
+
+---
+
+#### 3. Make Better Use of Available Energy Sources
+
+Countries should make the best use of the energy resources available to them.
+
+Examples include:
+
+- Exploiting existing energy sources where possible.
+- Using renewable energy sources whenever conditions are suitable.
+- Using fossil fuel power stations when renewable sources are unavailable to ensure a reliable electricity supply.
+
+Although renewable energy may have a high initial cost, it provides long-term benefits.
+
+---
+
+#### 4. Transport Policies
+
+Governments can reduce fuel consumption and improve air quality through transport policies such as:
+
+- Regulations on vehicle exhaust emissions.
+- Restrictions on where vehicles can travel.
+- Fuel taxation.
+- Improving public transport.
+- Creating routes for cyclists and pedestrians.
+- Encouraging car-sharing.
+- Providing grants for more fuel-efficient vehicles.
+- Promoting electric-powered vehicles.
+
+> [!TIP]
+> Many examination questions ask for **government strategies** to conserve energy. Transport policies are a common marking point.
+
+---
+
+### Quick Revision
+
+- Energy conservation helps protect resources for future generations.
+- Reduce unnecessary energy consumption.
+- Educate people and promote energy-efficient technologies.
+- Make effective use of both renewable and non-renewable energy sources.
+- Governments can reduce fuel use through transport policies.
+
+---
+
+### Exam Tip
+
+> [!IMPORTANT]
+> If asked **"Suggest ways to conserve energy,"** include both **individual actions** (e.g., turning off appliances) and **government actions** (e.g., fuel taxation, public transport, regulations). This usually leads to a more complete answer.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Writing only household methods and forgetting government strategies.
+> - Confusing **energy conservation** with **energy production**.
+> - Forgetting that renewable energy should be used whenever conditions are suitable.
+---
+
+## 🛠️ Development of New Energy Resources
+
+Although renewable energy technologies are developing rapidly, they are **not yet sufficient** to meet the world's growing energy demand on their own.
+
+At the same time, international agreements have limited the exploitation of large reserves of **oil, coal, and natural gas** because of their environmental impacts.
+
+As a result, new methods of extracting energy resources are being developed.
+
+---
+
+### Fracking (Hydraulic Fracturing)
+
+**Fracking** is a modern technique used to extract **oil and natural gas** from underground rocks, particularly **shale rock**.
+
+The process involves injecting a mixture of **water, chemicals, and sand** into the rock at high pressure. This creates cracks in the rock, allowing oil and natural gas to flow to the surface.
+
+The **sand** used in the process is known as a **proppant**, as it helps keep the cracks in the shale rock open.
+
+```text
+Water + Chemicals + Sand
+            │
+            ▼
+ High-pressure injection
+            │
+            ▼
+     Cracks form in
+      shale rock
+            │
+            ▼
+ Oil & Natural Gas
+   flow to surface
+```
+
+> [!NOTE]
+> Fracking has increased the availability of oil and natural gas, but it remains controversial because of its potential environmental impacts.
+
+---
+
+### Quick Revision
+
+- Renewable technologies alone are currently **not enough** to meet global energy demand.
+- International agreements have limited the exploitation of some fossil fuel reserves.
+- **Fracking** is used to extract oil and natural gas from shale rock.
+- Fracking uses **water, chemicals, and sand (proppant)**.
+
+---
+
+### Exam Tip
+
+> [!IMPORTANT]
+> Remember the three materials used in fracking:
+>
+> **Water + Chemicals + Sand (Proppant)**
+>
+> Cambridge often asks students to describe the process rather than simply define it.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Forgetting that fracking is mainly used to extract **oil and natural gas**.
+> - Leaving out the role of **sand (proppant)**.
+> - Confusing fracking with conventional drilling.
+---
+
+## 🛢️ Impact of Oil Pollution
+
+The world relies heavily on **oil** because it is:
+
+- Easy to store and transport.
+- Easier to extract than many other energy resources.
+- Used to manufacture a wide range of products.
+- Produces less air pollution than coal when burned.
+
+However, **oil is a toxic substance**, and spillages can cause severe environmental damage.
+
+> [!NOTE]
+> **Crude oil** is sticky and flammable. Oil spills in the **sea** generally have a much greater impact than spills on land.
+
+---
+
+### Causes of Oil Spills
+
+Oil spills can occur due to:
+
+| Cause | Example |
+| :--- | :--- |
+| **Offshore oil extraction** | Leakage from oil rigs |
+| **Oil pipelines** | Pipeline leakages |
+| **Transport of oil** | Damage to oil tankers during shipping |
+
+---
+
+### Impacts of Oil Spills
+
+Oil spills have serious environmental and economic consequences.
+
+#### Environmental Impacts
+
+- Marine organisms may die.
+- Floating oil blocks sunlight, affecting **phytoplankton**, which are the primary producers in marine food chains.
+- Fish populations near the shore may decline.
+- Fish breeding grounds can be damaged.
+- Oil floating on the surface reduces the amount of oxygen entering the water.
+- Coral reefs may be damaged or destroyed.
+- In severe cases, some species may become locally extinct.
+
+#### Economic Impacts
+
+Oil spills can also affect people by:
+
+- Reducing the income of local fishermen.
+- Damaging tourism.
+- Polluting beaches and coastal areas.
+
+> [!TIP]
+> Remember that oil spills have **both environmental and economic impacts**. Mentioning both in examination answers often gains additional marks.
+
+---
+
+### Quick Revision
+
+- Oil is easy to store, transport, and extract.
+- The main causes of oil spills are **oil rigs, pipelines, and tanker accidents**.
+- Oil spills damage marine ecosystems, reduce fish populations, and affect coral reefs.
+- Tourism and fishing industries are also negatively affected.
+
+---
+
+### Exam Tip
+
+> [!IMPORTANT]
+> If asked about the impacts of oil spills, divide your answer into **environmental** and **economic** impacts. This makes your response well-organised and helps ensure you cover all marking points.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Mentioning only marine life and forgetting the effects on people and the economy.
+> - Forgetting that **phytoplankton** are affected because oil blocks sunlight.
+> - Writing only the causes or only the impacts when the question asks for both.
+---
+
+## 🚢 Preventing and Minimising Oil Spills
+
+Oil spills cannot always be prevented, but their **likelihood** and **impact** can be greatly reduced through effective management and response strategies.
+
+---
+
+### 1. MARPOL (Marine Pollution)
+
+**MARPOL (Marine Pollution)** is an international convention that aims to prevent pollution from ships.
+
+It includes rules and regulations regarding pollution caused by:
+
+- Oil
+- Sewage
+- Rubbish
+- Toxic liquids
+
+MARPOL also regulates the transfer of crude oil from one vessel to another while at sea.
+
+All oil tankers must be **certified**, and failure to comply with MARPOL regulations can result in:
+
+- Heavy fines.
+- Seizure of the ship.
+
+---
+
+### 2. Improved Tanker Design
+
+Modern oil tankers are designed to reduce the risk of oil spills.
+
+These improvements include:
+
+- Increasing the number of storage compartments so damage to one compartment does not result in the entire cargo leaking.
+- Using **double-hulled tankers**, which have both an inner and outer layer for extra protection.
+
+Although these designs are more expensive, they significantly reduce the risk of major oil spills.
+
+---
+
+### 3. Minimising the Impact of Oil Spills
+
+If an oil spill occurs, several methods can be used to reduce its environmental impact.
+
+| Method | Purpose |
+| :--- | :--- |
+| **Floating Booms** | Floating barriers used to prevent oil from spreading. Most effective in calm seas. |
+| **Detergent Sprays (Dispersants)** | Break oil slicks into smaller droplets so they degrade over time. However, some studies suggest these chemicals may be more harmful than crude oil itself. |
+| **Skimmers** | Floating devices that collect oil from the water's surface. They are often used together with booms. |
+
+> [!NOTE]
+> No single clean-up method is completely effective. In many cases, several techniques are used together.
+
+---
+
+### Quick Revision
+
+- **MARPOL** is an international agreement that helps prevent marine pollution from ships.
+- Modern tankers use **multiple compartments** and **double hulls** to reduce oil spills.
+- **Floating booms** contain oil.
+- **Detergent sprays** break down oil slicks.
+- **Skimmers** remove floating oil from the water.
+
+---
+
+### Exam Tip
+
+> [!IMPORTANT]
+> Cambridge often asks students to **distinguish between prevention and clean-up methods**.
+>
+> - **Prevention:** MARPOL, improved tanker design.
+> - **Clean-up:** Floating booms, detergent sprays, skimmers.
+
+---
+
+### Common Exam Mistakes
+
+> [!WARNING]
+> - Confusing **MARPOL** with an oil spill clean-up method.
+> - Forgetting that **double hulls help prevent spills**, not clean them up.
+> - Writing that detergent sprays completely remove oil—they only help break it into smaller droplets.
