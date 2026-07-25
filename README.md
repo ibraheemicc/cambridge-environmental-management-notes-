@@ -19,10 +19,10 @@ Whether you're preparing for class tests, mock examinations, or the final Cambri
 
 | Chapter | Status |
 |---------|:------:|
-| 🪨 Rocks and Minerals and Their Exploitation | ✅ Complete  |
-| ⚡ Energy and the Environment | ⏳ Coming Soon |
-| 🌾 Agriculture and the Environment | ⏳ Coming Soon |
-| 💧 Water and Its Management | ⏳ Coming Soon |
+| 🪨 Rocks and Minerals and Their Exploitation | Complete |
+| ⚡ Energy and the Environment | Complete |
+| 🌾 Agriculture and the Environment | Complete |
+| 💧 Water and Its Management | Complete |
 | 🌊 Oceans and Fisheries | ⏳ Coming Soon |
 | 🌋 Managing Natural Hazards | ⏳ Coming Soon |
 | 🌍 The Atmosphere and Human Activities | ⏳ Coming Soon |
