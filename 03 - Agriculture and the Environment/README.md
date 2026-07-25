@@ -1659,6 +1659,32 @@ Examples include:
 > - Forgetting that sustainability includes **environmental, economic, and social benefits**, not just protecting nature.
 
 ---
+## Key Terms
+
+| Term | Definition |
+|------|------------|
+| **Humus** | Decayed organic matter in soil that improves fertility, water retention, and soil structure. |
+| **Weathering** | The breakdown of rocks into smaller particles by physical, chemical, or biological processes. |
+| **Erosion** | The removal and transport of soil or rock by water, wind, or ice. |
+| **Leaching** | The washing of dissolved nutrients from the soil by water. |
+| **Loamy Soil** | A fertile soil containing a balanced mixture of sand, silt, clay, and organic matter. |
+| **Soil pH** | A measure of the acidity or alkalinity of soil, affecting nutrient availability and plant growth. |
+| **Crop Rotation** | The planned growing of different crops on the same land in successive seasons to maintain soil fertility and reduce pests and diseases. |
+| **Fertilizer** | A natural or artificial substance added to soil to supply essential nutrients for plant growth. |
+| **Irrigation** | The artificial application of water to crops. |
+| **Biological Control** | The use of natural predators or parasites to control crop pests instead of chemicals. |
+| **Selective Breeding** | The process of breeding organisms with desirable characteristics to produce improved offspring. |
+| **Genetic Modification (GM)** | The alteration of an organism's DNA by inserting genes to produce desired characteristics. |
+| **Hydroponics** | The cultivation of plants without soil using nutrient-rich water. |
+| **Eutrophication** | The enrichment of water with nutrients, causing excessive algal growth and depletion of dissolved oxygen. |
+| **Biomagnification** | The increase in concentration of toxic substances in organisms at higher levels of a food chain. |
+| **Salinisation** | The build-up of salts in soil, reducing its fertility and crop productivity. |
+| **Desertification** | The degradation of fertile land into desert-like conditions due to poor land management and climatic factors. |
+| **Terracing** | The creation of step-like fields on slopes to reduce soil erosion and surface runoff. |
+| **Contour Ploughing** | Ploughing across the slope, following contour lines, to reduce runoff and soil erosion. |
+| **Sustainable Agriculture** | Farming practices that meet present food needs while conserving natural resources for future generations. |
+
+---
 
 > 🎉 **Congratulations! You've completed Chapter 3: Agriculture and the Environment.**
 >
